@@ -13,3 +13,5 @@ main fucntion:
         *repeat until the array is sorted
     prints the completed array
     end main function
+
+Documentation Link: https://docs.google.com/document/d/16cF4my1_XaCSiQqmwF6RicZCeARj3cV8-_dgbEAQJEk/edit?usp=sharing
